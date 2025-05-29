@@ -1,8 +1,2 @@
 ranking:
-  template: >
-    📊 *Reporte de Rendimiento del Equipo: {equipo}* 🏆
-
-    🔍 Detalles de puntuación:
-    {detalles}
-
-    ✅ ¡Sigue así, {equipo}! 💪
+  template: "Reporte de Rendimiento del Equipo: {equipo}, Detalles de puntuación: {detalles}, ¡Sigue así, {equipo}!"
