@@ -1,7 +1,2 @@
-ranking:
-  template: |
-    Reporte de Rendimiento del Equipo: {equipo}
-    Detalles de puntuación:
-    {detalles}
-
-    ¡Sigue así, {equipo}!
+rranking:
+  template: "🌟 Equipo {equipo}, su esfuerzo brilla con cada logro. Detalles de puntuación: {detalles}. ¡Orgullo total! ¡Vamos por más! 💪✨"
